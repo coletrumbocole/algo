@@ -1,6 +1,6 @@
 # algo
 
-Newman interacts with the tradeking API to
+[Newman](https://www.npmjs.com/package/newman) interacts with the [tradeking API](https://developers.tradeking.com/) to
 
   - get market data
 
